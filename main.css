@@ -24,7 +24,7 @@ h5 {
 /* About Me section */
 
 #about-me {
-    padding: 15px;
+    padding: 20px;
     margin: 20px;
 }
 
@@ -70,7 +70,7 @@ div.skills-icons {
 
 /* Footer */
 #heading-connect {
-    text-align: left;
+    text-align: center;
     padding-top: 2.5rem;
     margin: 20px;
 }
